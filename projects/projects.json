@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Gemini AI",
+    "desc": "Gemini , an AI chatbot , allows your React application to send requests to Gemini with prompts orquestions.",
+    "image": "Gemini",
+    "links": {
+      "view": "https://geminiaii.netlify.app/",
+      "code": "https://github.com/antan2002"
+    }
+  },
+  {
+    "name": "Face Recognizition Brain",
+    "desc": "A face recognition app is a smart Brain that utilizes computer vision technology to detect and identify faces within images or video streams",
+    "image": "facerecognize",
+    "links": {
+      "view": "",
+      "code": "https://github.com/antan2002/FaceRecognizeBrain"
+    }
+  },
+  {
+    "name": "Stone-Paper-Scissors",
+    "desc": " A stone beats scissors, scissors beat paper by cutting it, and paper beats stone by covering it.",
+    "image": "project3",
+    "links": {
+      "view": "https://antan2002.github.io/Stone-Paper-Scissors/",
+      "code": "https://github.com/antan2002/Stone-Paper-Scissors"
+    }
+  },
+  {
+    "name": "Currency Converter",
+    "desc": "The Currency Conversion API allows you to convert pairs of currencies. Choose from over 100 different currencies. It helps in the currency conversion and exchange process by fetching real-time exch…",
+    "image": "project4",
+    "links": {
+      "view": "https://iridescent-dusk-ff932d.netlify.app",
+      "code": "https://github.com/antan2002/Currency-Converter"
+    }
+  }
+]
