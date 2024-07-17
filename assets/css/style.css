@@ -1210,6 +1210,10 @@ form .button-area {
   flex-direction: row-reverse;
 }
 
+input[type="email"] {
+  text-transform: lowercase;
+}
+
 .button-area button {
   color: #fff;
   border: none;

@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "chargeX",
+    "desc": "Discover our seamless EV charger e-commerce platform, offering top-quality chargers, fast delivery, and excellent customer support for all your electric vehicle needs.",
+    "image": "chargeX",
+    "links": {
+      "view": "https://6696cff4fb4c601df4fc63f9--cerulean-bunny-01ffc0.netlify.app/",
+      "code": "https://github.com/antan2002/CHARGEX"
+    }
+  },
+  {
     "name": "Face Recognizition Brain",
     "desc": "A face recognition app is a smart Brain that utilizes computer vision technology to detect and identify faces within images or video streams",
     "image": "facerecognize",

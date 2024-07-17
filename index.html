@@ -178,23 +178,21 @@
 
   <!-- contact section starts -->
   <section class="contact" id="contact">
-
     <h2 class="heading"><i class="fas fa-headset"></i> Get in <span>Touch</span></h2>
-
     <div class="container">
       <div class="content">
         <div class="image-box">
           <img draggable="false" src="./assets/images/images.jpg" alt="">
         </div>
-        <form id="contact-form">
-
+        <form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
+          <input type="hidden" name="access_key" value="30c48b70-ab84-4a76-9559-dd38bd4e40b5">
           <div class="form-group">
             <div class="field">
               <input type="text" name="name" placeholder="Name" required>
               <i class='fas fa-user'></i>
             </div>
             <div class="field">
-              <input type="text" name="email" placeholder="Email" required>
+              <input type="email" name="email" placeholder="Email" required>
               <i class='fas fa-envelope'></i>
             </div>
             <div class="field">
@@ -208,12 +206,14 @@
           </div>
           <div class="button-area">
             <button type="submit">
-              Submit <i class="fa fa-paper-plane"></i></button>
+              Submit <i class="fa fa-paper-plane"></i>
+            </button>
           </div>
         </form>
       </div>
     </div>
   </section>
+
   <!-- contact section ends -->
 
 
@@ -280,7 +280,7 @@
   <!-- scroll reveal anim -->
   <script src="https://unpkg.com/scrollreveal"></script>
 
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+  <script src="contact-form.js"></script>
 
   <!-- ==== ALL MAJOR JAVASCRIPT CDNS ENDS ==== -->
 
