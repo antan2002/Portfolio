@@ -1,0 +1,56 @@
+[
+  {
+    "name": "AI Trip Genenrator",
+    "desc": "Built an AI-powered trip planner with the MERN stack, enhancing user engagement by 60%.",
+    "image": "triptrekker",
+    "links": {
+      "view": "https://tripgenerator.netlify.app/",
+      "code": "https://github.com/antan2002/Trip-Generator"
+    }
+  },
+  {
+    "name": "Gemini AI",
+    "desc": "Gemini , an AI chatbot , allows your React application to send requests to Gemini with prompts orquestions.",
+    "image": "Gemini",
+    "links": {
+      "view": "https://geminiaii.netlify.app/",
+      "code": "https://github.com/antan2002"
+    }
+  },
+  {
+    "name": "chargeX",
+    "desc": "Discover our seamless EV charger e-commerce platform, offering top-quality chargers, and excellent customer support for all your electric vehicle needs.",
+    "image": "chargeX",
+    "links": {
+      "view": "https://6696cff4fb4c601df4fc63f9--cerulean-bunny-01ffc0.netlify.app/",
+      "code": "https://github.com/antan2002/CHARGEX"
+    }
+  },
+  {
+    "name": "Face Recognizition Brain",
+    "desc": "A face recognition app is a smart Brain that utilizes computer vision technology to detect and identify faces within images or video streams",
+    "image": "facerecognize",
+    "links": {
+      "view": "",
+      "code": "https://github.com/antan2002/FaceRecognizeBrain"
+    }
+  },
+  {
+    "name": "Stone-Paper-Scissors",
+    "desc": "A space-themed landing page built with React, featuring a full-screen starry background, parallax scrolling, and interactive elements.",
+    "image": "project3",
+    "links": {
+      "view": "https://spacer-main.netlify.app/",
+      "code": "https://github.com/antan2002/Spacer-main"
+    }
+  },
+  {
+    "name": "Stone-Paper-Scissors",
+    "desc": " A stone beats scissors, scissors beat paper by cutting it, and paper beats stone by covering it.",
+    "image": "project4",
+    "links": {
+      "view": "https://antan2002.github.io/Stone-Paper-Scissors/",
+      "code": "https://github.com/antan2002/Stone-Paper-Scissors"
+    }
+  }
+]
